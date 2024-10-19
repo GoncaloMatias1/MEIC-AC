@@ -8,7 +8,6 @@
    - Load raw data
    - Initial data overview
    - Basic data quality checks
-   - Export validated raw data
 
 2. `02_data_preprocessing.ipynb`
    - Handle missing values
