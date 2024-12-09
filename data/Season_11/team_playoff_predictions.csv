@@ -1,0 +1,13 @@
+model,team_id,predicted_playoffs
+Random Forest,0,1
+Random Forest,2,1
+Random Forest,4,0
+Random Forest,7,0
+Random Forest,8,1
+Random Forest,10,1
+Random Forest,11,1
+Random Forest,13,1
+Random Forest,16,0
+Random Forest,17,0
+Random Forest,20,1
+Random Forest,19,1
