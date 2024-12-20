@@ -1,7 +1,7 @@
 # Basketball Playoffs Prediction Project Structure
 
 **2024 MEIC - 1st Semester**  
-**Course:** Aprendizagem Computacional
+**Course:** Machine Learning
 **Grade:** TBD
 
 ## Project developed by:
