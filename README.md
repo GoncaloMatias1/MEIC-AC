@@ -6,7 +6,7 @@
 
 ## Project developed by:
 - Gonçalo Matias
-- Tomás Martim
+- Tomás Monteiro
 
 ## 1. Project Organization
 
