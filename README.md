@@ -1,5 +1,13 @@
 # Basketball Playoffs Prediction Project Structure
 
+**2024 MEIC - 1st Semester**  
+**Course:** Aprendizagem Computacional
+**Grade:** TBD
+
+## Project developed by:
+- Gonçalo Matias
+- Tomás Martim
+
 ## 1. Project Organization
 
 ### Project Structure
@@ -44,12 +52,11 @@ basketball_playoffs_predictions/
 - Validate feature importance
 
 ### 05_model_development.ipynb
-- Split data into training and testing sets
+- Split data into training and testing sets to predict year 10
 - Create and train models
 - Analyze and save results
 
 ### 06_model_evaluation_for_predicitons.ipynb
 - Load data for the new year
 - Add previously calculated features (overalls)
-- Develop and train the model
-- Prepare results for competition
+- Develop and train the model for competition
